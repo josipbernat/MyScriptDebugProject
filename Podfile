@@ -1,0 +1,9 @@
+platform :ios, '15.0'
+
+target 'Demo' do
+
+  # Pods for Demo
+
+  pod 'MyScriptInteractiveInk-Runtime', '2.1.1'
+
+end
